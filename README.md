@@ -47,7 +47,4 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/DevLeoFulco/DevLeoFulco/output/snake.svg" alt="Snake animation" />
-
-###
+![snake animation](https://github.com/<seu DevLeoFulco>/<seu DevLeoFulco>/blob/output/github-contribution-grid-snake2.svg)
