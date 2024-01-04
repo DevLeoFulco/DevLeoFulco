@@ -48,8 +48,6 @@
 
 ---
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DevLeoFulco/DevLeoFulco/output/snake.svg" alt="Snake animation" />
 
 ###
