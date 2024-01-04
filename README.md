@@ -47,4 +47,4 @@
 </div>
 
 ---
-![snake animation](https://github.com/<DevLeoFulco>/<DevLeoFulco>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/DevLeoFulco/DevLeoFulco/blob/output/github-contribution-grid-snake2.svg)
