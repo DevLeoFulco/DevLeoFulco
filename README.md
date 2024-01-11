@@ -7,7 +7,7 @@
 <p>
   Olá 👋, Eu sou Leandresson! Bem vindo ao meu repositório.
 
-  - 🌱 Atualmente estou estudando as linguagens C#, Java e JavaScript para contar com opções robustas e flexíveis no back end dos meus projetos.
+  - 🌱 Atualmente estou aprofundando conhecimentos em Angular, C#, Java e JavaScript para contar com opções robustas e flexíveis dos meus projetos.
   - 🔭 Estou em busca da minha primeira oportunidade no mercado de TI e espero que minhas habilidades, sejam capazes de brilhar os olhos dos recrutadores.
 </p>
 
