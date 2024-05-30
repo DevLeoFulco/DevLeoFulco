@@ -7,8 +7,8 @@
 <p>
   Olá 👋, Eu sou Leandresson! Bem vindo ao meu repositório.
 
-  - 🌱 Atualmente estou aprofundando conhecimentos em Angular, C#, Java e JavaScript para contar com opções robustas e flexíveis dos meus projetos.
-  - 🔭 Estou em busca da minha primeira oportunidade no mercado de TI e espero que minhas habilidades, sejam capazes de brilhar os olhos dos recrutadores.
+  - :computer: Atualmente Desenvolvedor Flutter na empresa Digital Aligner, mas tambem atuando como Arquiteto de sistemas na rede clinicas medicas Mary Exames.
+  - 🔭 Sou cria da linguagem C e para tanto, trilhei minha base de conhecimentos dentro do mercado Java onde venho galgando grandes feitos e conquistas.
 </p>
 
 ---
