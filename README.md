@@ -7,7 +7,8 @@
 <p>
   Olá 👋, Eu sou Leandresson! Bem vindo ao meu repositório.
 
-  - :computer: Atualmente Desenvolvedor Flutter na empresa Digital Aligner, mas tambem atuando como Arquiteto de sistemas na rede clinicas medicas Mary Exames.
+  - :computer: Desenvolvedor Flutter na empresa Digital Aligner.
+  - :computer: Arquiteto de sistemas na rede de clínicas médicas Mary Exames.
   - 🔭 Sou cria da linguagem C e para tanto, trilhei minha base de conhecimentos dentro do mercado Java onde venho galgando grandes feitos e conquistas.
 </p>
 
