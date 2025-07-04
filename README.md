@@ -7,8 +7,9 @@
 <p>
   Olá 👋, Eu sou Leandresson! Bem vindo ao meu repositório.
 
-  - :computer: Desenvolvedor Flutter na empresa Digital Aligner.
-  - :computer: Arquiteto de sistemas na rede de clínicas médicas Mary Exames.
+  - :computer: Engenheiro de Software Pleno no Banco do Brasil.
+  - :computer: Engenheiro de Software Pleno no Banco Inter.
+  - :computer: Desenvolvedor de IA na Cittamobi.
   - :credit_card: Intern Developer do sistema de cartões virtuais da rede Citi Bank.
   - 🔭 Sou cria da linguagem C e para tanto, trilhei minha base de conhecimentos dentro do mercado Java onde venho galgando grandes feitos e conquistas.
   - :trophy: 4º Lugar no Hackathon Campus Party 15 CPBS15 com um projeto de otimização de logística para os Correios.
