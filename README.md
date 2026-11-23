@@ -7,8 +7,11 @@
 <p>
   Olá 👋, Eu sou Leandresson! Bem vindo ao meu repositório.
 
-  - :computer: Engenheiro de Software Pleno no Banco do Brasil.
-  - :computer: Engenheiro de Software Pleno no Banco Inter.
+  - :computer: Engenheiro de Software Sênior no Banco do Bradesco.
+  - :computer: Engenheiro de Software Sênior na Vivo Telecom.
+  - :computer: Engenheiro de Software Pleno na Grownt.
+  - :computer: Desenvolvedor Fullstack Pleno no Banco do Brasil.
+  - :computer: Back-end Developer Pleno no Banco Inter.
   - :computer: Desenvolvedor de IA na Cittamobi.
   - :credit_card: Intern Developer do sistema de cartões virtuais da rede Citi Bank.
   - 🔭 Sou cria da linguagem C e para tanto, trilhei minha base de conhecimentos dentro do mercado Java onde venho galgando grandes feitos e conquistas.
