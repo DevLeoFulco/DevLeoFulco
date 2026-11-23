@@ -7,7 +7,7 @@
 <p>
   Olá 👋, Eu sou Leandresson! Bem vindo ao meu repositório.
 
-  - :computer: Engenheiro de Software Sênior no Banco do Bradesco.
+  - :computer: Engenheiro de Software Sênior no Bradesco (ATUAL NOV/2026).
   - :computer: Engenheiro de Software Sênior na Vivo Telecom.
   - :computer: Engenheiro de Software Pleno na Grownt.
   - :computer: Desenvolvedor Fullstack Pleno no Banco do Brasil.
